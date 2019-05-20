@@ -1,0 +1,15 @@
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\MQTTConnect.exe
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\MQTTConnect.deps.json
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\MQTTConnect.runtimeconfig.json
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\MQTTConnect.runtimeconfig.dev.json
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\MQTTConnect.dll
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\MQTTConnect.pdb
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\MQTTnet.dll
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\obj\Debug\netcoreapp3.0\MQTTConnect.csprojAssemblyReference.cache
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\obj\Debug\netcoreapp3.0\MQTTConnect.csproj.CoreCompileInputs.cache
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\obj\Debug\netcoreapp3.0\MQTTConnect.AssemblyInfoInputs.cache
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\obj\Debug\netcoreapp3.0\MQTTConnect.AssemblyInfo.cs
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\obj\Debug\netcoreapp3.0\MQTTConnect.csproj.CopyComplete
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\obj\Debug\netcoreapp3.0\MQTTConnect.dll
+C:\Users\EliasHasnat\Documents\sandbox\AzureIoTSolution\MQTTConnect\obj\Debug\netcoreapp3.0\MQTTConnect.pdb
